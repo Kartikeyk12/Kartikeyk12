@@ -62,15 +62,6 @@ Recently, I’ve been diving into the **AI x Web intersection**, integrating **G
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikeyk12&show_icons=true&theme=radical" alt="Kartikey's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeyk12&layout=compact&theme=radical" alt="Top Langs" height="165">
-</p>
-
----
-
 ### 💬 Let’s Connect
 
 <p align="center">

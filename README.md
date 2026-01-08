@@ -75,9 +75,9 @@ Recently, I’ve been diving into the **AI x Web intersection**, integrating **G
 
 ---
 ### 🧠 You Can Learn Some Stuffs From My Stackblitz (Adding AngularV21 Soon)
-<a href="https://stackblitz.com/edit/calling-parent-function-from-child-component-dk4zov?file=README.md">How to Call parent from child in Angular</a>
-<a href="https://stackblitz.com/edit/angular-4b3okvzb?file=src%2Fmain.ts">Send data from a to b and show it</a>
-<a href="https://stackblitz.com/edit/angular-forms-formarray-example-p3qvaw9j">User form using form array table (Important)</a>
+<a href="https://stackblitz.com/edit/calling-parent-function-from-child-component-dk4zov?file=README.md">How to Call parent from child in Angular</a> </br>
+<a href="https://stackblitz.com/edit/angular-4b3okvzb?file=src%2Fmain.ts">Send data from a to b and show it</a> </br>
+<a href="https://stackblitz.com/edit/angular-forms-formarray-example-p3qvaw9j">User form using form array table (Important)</a> </br>
 
 ---
 

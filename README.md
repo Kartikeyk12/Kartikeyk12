@@ -86,10 +86,4 @@ Recently, I’ve been diving into the **AI x Web intersection**, integrating **G
 
 ---
 
-<p align="center">
-  <img src="https://github.com/kartikeyk12/kartikeyk12/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
-</p>
-
----
-
 ⭐️ *“Keep learning, keep building, and make the web a smarter place.”*

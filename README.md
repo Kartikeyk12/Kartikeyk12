@@ -4,7 +4,7 @@
 -->
 
 <h1 align="center">👋 Hey, I'm Kartikey Kamal</h1>
-<h3 align="center">💻 Software Engineer | Angular Expert | Problem Solver | AI Explorer</h3>
+<h3 align="center">💻 Senior Software Engineer | Angular Expert | Problem Solver | AI Explorer</h3>
 
 ---
 
